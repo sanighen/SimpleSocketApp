@@ -42,5 +42,6 @@ public class DataServer {
         avg /= list.size();
         return String.valueOf(avg);
     }
+    
 
 }

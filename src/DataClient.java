@@ -53,5 +53,6 @@ public class DataClient {
         DataClient dc = new DataClient(list);
         dc.getData();
     }
+    
 
 }
